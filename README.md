@@ -26,4 +26,4 @@
 
 ## License
 
-bic-go is licensed under the [MIT](LICENSE.TXT) license.
+bic-wx is licensed under the [MIT](LICENSE.TXT) license.
